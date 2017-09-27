@@ -8,8 +8,8 @@ This is a two part code puzzle for the Full Stack Software Engineer job applicat
 ## Usage
 * Ruby version (2.3.0)
 * Install the following gems
-  * `google_maps_service (0.4.2)`
-  * `json`
+  * google_maps_service
+  * json
 * Run the two parts by running the following within the squareroots_code_puzzle directory
   * `ruby problem_one.rb`
   * `ruby problem_two.rb`
